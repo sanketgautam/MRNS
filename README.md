@@ -1,4 +1,4 @@
-#MANIT Results Notification Services
+# MANIT Results Notification Services
 
 >_**Note**: These scripts were developed early 2015, at that time college results were hosted at [Dolphin Technologies](https://dolphintechnologies.in/manit) and for old college [website](https://manit.ac.in). Hence, they may not be fuctional as of now._ 
 
@@ -6,7 +6,7 @@
 
 Manit Results Notification Services is a suite/collection of services, aimed to provide latest updates &notifications regarding results, notices and circulars to faculty and students of M.A.N.I.T. Bhopal. 
 
-###Repository Structure
+### Repository Structure
  
   * **./mrns :** _contains the scripts related to result notification services via email & social media (Facebook)_
   * **./scrappers :** _contains some python scripts for scraping information from the website_ 
